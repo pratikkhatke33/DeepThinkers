@@ -238,15 +238,6 @@ export const api = {
 
 ---
 
-## Roadmap
-
-- [ ] Real voice analysis via WebRTC + OpenAI Whisper
-- [ ] Live banking API (RazorpayX / Open Banking India)
-- [ ] React Native mobile app (iOS + Android)
-- [ ] Aadhaar verification via DigiLocker API
-- [ ] GPS auto-detection of nearest police station
-- [ ] Real cybercrime.gov.in API submission via Xano webhook
-- [ ] Additional languages — Tamil, Telugu, Bengali
 
 ---
 ## Legal & Compliance
